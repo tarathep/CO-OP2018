@@ -1,0 +1,27 @@
+﻿@{
+    Layout = "~/shared/_Layout.cshtml";
+    Page.title = "Razor Syntax";
+    var firstname = "Uthamat";
+    var fullname = firstname + " " + "Sukkasem";
+    var theCount = 5;
+    var Age = 20 + theCount;
+    var today = DateTime.Today;
+}
+
+<div class="container-fluid">
+    <header>
+        <h1>Razor Syntax</h1>
+    </header>
+
+    <div class="row">
+        <div class="col-md-6">
+            Hi! @fullname @Age
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            Today 's @today
+        </div>
+    </div>
+</div>

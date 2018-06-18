@@ -1,0 +1,40 @@
+﻿@{
+    Layout = "~/shared/_Layout.cshtml";
+    Page.Title = "Loop";
+}
+
+<div class="container-fluid">
+    <header>
+        <h1>Loop</h1>
+    </header>
+
+    <div class="col-md-8">
+        <h2>For Loop</h2>
+        @for (int i = 1; i <= 7; i++)
+        {
+            <font size="@i">ข้อความขนาด @i </font><br />
+        }
+
+        <h2>While Loop</h2>
+        @{ 
+            var j = 48;
+            while (j >=8)
+            {
+                var size = j + "pt";
+                <div style="font-size:@size">ข้อความขนาด @size</div>
+                j -= 2;
+            }
+        }
+
+        <h2>Foreach</h2>
+        <ol>
+            @foreach (var item in Request.ServerVariables)
+            {
+                <li>
+                    @item
+                </li>
+            }
+        </ol>
+
+    </div>
+</div>

@@ -1,0 +1,63 @@
+﻿@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Form Collection</h2>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6">
+            @using (Html.BeginForm())
+            {
+                <div class="form-group">
+                    @Html.Label("Name")
+                    @Html.TextBox("Name", null, new { @class = "form-control" })
+                </div>
+
+                <div class="form-group">
+                    @Html.Label("Description")
+                    @Html.TextArea("Description", null, new { @class = "form-control", rows = 5 })
+                </div>
+
+                <div class="form-group">
+                    @Html.Label("CreateDate")
+                    @Html.TextBox("CreateDate", null, new { @class = "form-control", type = "date" })
+                </div>
+
+
+                <div class="form-group">
+                    @Html.Label("DateTime")
+                    @Html.TextBox("DateTime", null, new { @class = "form-control", type = "datetime-local" })
+                </div>
+
+
+                <div class="form-group">
+                    @Html.Label("Month")
+                    @Html.TextBox("Month", null, new { @class = "form-control", type = "month" })
+                </div>
+
+                <div class="form-group">
+                    @Html.Label("Week")
+                    @Html.TextBox("Week", null, new { @class = "form-control", type = "week" })
+                </div>
+
+                <div class="form-group">
+                    @Html.Label("Time")
+                    @Html.TextBox("Time", null, new { @class = "form-control", type = "time" })
+                </div>
+
+                <div class="form-group">
+                    @Html.Label("Color")
+                    @Html.TextBox("Color", null, new { @class = "form-control", type = "color" })
+                </div>
+
+                <input type="submit" value="Submit" class="btn btn-warning"/>
+            }
+        </div>
+        <div class="col-md-6">
+            @Html.Raw(ViewBag.Data)
+        </div>
+    </div>
+</div>
+
+

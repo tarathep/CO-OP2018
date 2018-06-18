@@ -1,0 +1,36 @@
+﻿@{
+    Layout = "~/shared/_Layout.cshtml";
+    Page.title = "Array";
+}
+
+<div class="container-fluid">
+    <header>
+        <h2>Array</h2>
+    </header>
+
+    <div class="col-md-8">
+        <h3>Array</h3>
+        @{
+            string[] name = { "Uthamat", "Patta", "Chanadtha", "Test" };
+            foreach (var item in name)
+            {
+                <div>@item</div>
+            }
+        }
+
+        <h3>Dictionary</h3>
+        @{
+            var data = new Dictionary<string, int>();
+            data.Add("Uthamat", 25);
+            data.Add("Patta", 20);
+            data.Add("Chanadtha", 19);
+            data.Add("Test", 15);
+
+            foreach (KeyValuePair<string, int> item in data)
+            {
+                <b>Name :</b> @item.Key <br />
+                <b>Age :</b> @item.Value <br />
+            }
+        }
+    </div>
+</div>

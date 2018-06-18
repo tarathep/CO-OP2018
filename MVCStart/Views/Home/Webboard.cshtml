@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Webboard";
+}
+
+<div class="container-fluid">
+
+    <div class="row">
+        <h2>Webboard</h2>
+        <p>Message: @ViewBag.Message</p>
+        <p>Product Name: @ViewBag.productName</p>
+
+        @Html.ActionLink("Send Data by ActionLink", "Webboard", new { productName = "C#,.NET" }, new { @class = "btn btn-success" })
+
+        @Html.ActionLink("Not Send Data by ActionLink", "Webboard", null, new { @class = "btn btn-info" })
+
+        <a href="/Home/Webboard?productName=Java" class="btn btn-default">Send Data by Element</a>
+    </div>
+    
+   <hr />
+   <div class="row">
+       <h2>2 Parameter</h2>
+
+       <p>Product Name: @ViewBag.productName</p>
+       <p>Product ID: @ViewBag.productID</p>
+
+       @Html.ActionLink("Send Data by ActionLink", "Webboard", new { productName = "C#,.NET", productID = "1" }, new { @class = "btn btn-warning" })
+
+       <a href="/Home/Webboard?productName=Java&productID=2" class="btn btn-danger">Send Data by Element</a>
+   </div>
+   
+</div>
+  

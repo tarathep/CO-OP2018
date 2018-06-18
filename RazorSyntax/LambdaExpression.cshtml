@@ -1,0 +1,185 @@
+﻿@using RazorSyntax
+@{
+    Layout = "~/shared/_Layout.cshtml";
+    List<Customer> customers = new List<Customer>()
+    {
+        new Customer { Id = 1, Name="Uthamat",Age =25 ,RoleId = 1,ProvinceId = 4 },
+        new Customer { Id = 2, Name="Patta",Age =19 ,RoleId = 2,ProvinceId = 1},
+        new Customer { Id = 3, Name="Somchai",Age =11,RoleId = 1,ProvinceId = 1 },
+        new Customer { Id = 4, Name="Somjai",Age =53 ,RoleId = 2,ProvinceId = 2},
+        new Customer { Id = 5, Name="Chujai",Age =53 ,RoleId = 1,ProvinceId = 3}
+    };
+
+    List<Role> roles = new List<Role>()
+    {
+        new Role { RoleId = 1 , RoleName ="Whole Sales"},
+        new Role { RoleId = 2 , RoleName ="Retail Sales"}
+    };
+
+
+    List<Province> provinces = new List<Province>()
+    {
+        new Province { ProvinceId = 1 , ProvinceName ="Bangkok"},
+        new Province { ProvinceId = 2 , ProvinceName ="Chonburi"},
+        new Province { ProvinceId = 3 , ProvinceName ="Nan"},
+        new Province { ProvinceId = 4 , ProvinceName ="Loei"}
+    };
+
+}
+
+<div class="container-fluid">
+    <header>
+        <h1>Lambda Expression</h1>
+    </header>
+
+    <div class="row">
+        <div class="col-md-6">
+            <h2>ToList()</h2>
+            @{
+                var data = customers.ToList();
+                <table class="table table-bordered table-hover table-striped">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Name</th>
+                            <th>Age</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in data)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.Name</td>
+                                <td>@item.Age</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+
+            <h2>Select Any Field</h2>
+            @{
+                var data2 = customers.Select(c => new { c.Id, c.Name });
+                <ul>
+                    @foreach (var item in data2)
+                    {
+                        <li>@item.Id - @item.Name</li>
+                    }
+                </ul>
+            }
+
+            <h2>Select Any Record</h2>
+            @{
+                var data3 = customers.Where(c => c.Age >= 19).Select(c => new { c.Name, c.Age });
+                <ul>
+                    @foreach (var item in data3)
+                    {
+                        <li>@item.Name - @item.Age</li>
+                    }
+                </ul>
+            }
+
+            <h2>SingleorDefault</h2>
+            @{
+                //var data4 = customers.Where(c => c.Id == 1).SingleOrDefault();
+                var data4 = customers.SingleOrDefault(c => c.Id == 1);
+                <div>
+                    <b> Name : @data4.Name</b>
+                    <b> Age : @data4.Age</b>
+                </div>
+            }
+
+            <h2>FirstorDefault</h2>
+            @{
+                //var data5 = customers.Where(c => c.Age == 53).FirstOrDefault();
+                var data5 = customers.FirstOrDefault(c => c.Age == 53);
+                <div>
+                    <b> Name : @data5.Name</b>
+                    <b> Age : @data5.Age</b>
+                </div>
+            }
+
+            <h2>Order By</h2>
+            @{
+                //var data6 = customers.OrderBy(c => c.Age).ToList();
+                //var data6 = customers.OrderByDescending(c => c.Age).ToList();
+                var data6 = customers.OrderBy(c => c.Age).ThenByDescending(c => c.Id).ToList();
+                <ul>
+                    @foreach (var item in data6)
+                    {
+                        <li> @item.Name (@item.Age)</li>
+                    }
+                </ul>
+            }
+
+            <h2>Count</h2>
+            @{
+                //var total = customers.Count();
+                var total = customers.Count(c => c.Age == 53);
+                <div>Total : @total</div>
+            }
+
+            <h2>Max</h2>
+            @{
+                var Max = customers.Max(c => c.Age);
+                <div>Total : @Max</div>
+            }
+
+            <h2>Min</h2>
+            @{
+                var Min = customers.Min(c => c.Id);
+                <div>Total : @Min</div>
+            }
+
+            <h2>Average</h2>
+            @{
+                var Average = customers.Average(c => c.Age);
+                <div>Total : @Average</div>
+            }
+
+            <h2>skip</h2>
+            @{
+                var data7 = customers.Skip(2).Take(2).ToList();
+                <ul>
+                    @foreach (var item in data7)
+                    {
+                        <li> @item.Name (@item.Age)</li>
+                    }
+                </ul>
+            }
+
+
+            <h2>Group By</h2>
+            @{
+                var data8 = customers.GroupBy(c => c.RoleId).Select(g => new { g.Key, Total = g.Count() });
+                <ul>
+                    @foreach (var item in data8)
+                    {
+                        <li>@item.Key (@item.Total)</li>
+                    }
+                </ul>
+            }
+
+            <h2>Join</h2>
+            @{ 
+                var data9 = customers.Join(
+                    provinces,
+                    c => c.ProvinceId,
+                    p => p.ProvinceId,
+                    (c, p) => new { c.Name, p.ProvinceName, c.RoleId })
+                    .Join(
+                    roles,
+                    j => j.RoleId,
+                    r => r.RoleId,
+                    (j, r) => new { j.Name, j.ProvinceName, r.RoleName });
+                <ul>
+                    @foreach(var item in data9)
+                    {
+                        <li>@item.Name - @item.ProvinceName - @item.RoleName</li>
+                    }
+                </ul>
+            }
+        </div>
+    </div>
+</div>

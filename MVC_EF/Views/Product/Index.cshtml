@@ -1,0 +1,80 @@
+﻿@model IEnumerable<MVC_EF.Models.Products>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table id="myTable" class="table">
+    <thead>
+        <tr>
+
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SupplierID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QuantityPerUnit)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitsInStock)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitsOnOrder)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReorderLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Discontinued)
+            </th>
+            <th></th>
+
+        </tr>
+    </thead>
+   
+  
+</table>
+
+@section scripts{
+    <script>
+        $("#myTable").DataTable({
+
+            language: {
+                loadingRecords:"<img src='/Content/Spinner/double_ring.gif'>"
+            },
+            ajax: {
+                //sender ActionResult json(),Productcontroller()
+                url: '@Url.Action("ProductJson","Product")',
+                dataSrc: ""
+            }, columns: [
+                { data: "ProductName" },
+                { data: "SupplierID" },
+                { data: "CategoryID" },
+                { data: "QuantityPerUnit" },
+                { data: "UnitPrice" },
+                { data: "UnitsInStock" },
+                { data: "UnitsOnOrder" },
+                { data: "ReorderLevel" },
+                { data: "Discontinued" },
+                {
+                    data: "ProductID", render: function (data) {
+                        return '@Html.ActionLink("Edit", "Edit", new { id = "data" }) |@Html.ActionLink("Details", "Details", new { id ="data" }) |@Html.ActionLink("Delete", "Delete", new { id = "data" })'.replace("data",data)
+                    }
+                }
+            ]
+        });
+    </script>
+}

@@ -1,0 +1,44 @@
+﻿@{
+    Layout = "~/shared/_Layout.cshtml";
+    Page.title = "Decision";
+}
+
+<div class="container-fluid">
+    <header>
+        <h1>Decision</h1>
+    </header>
+
+    <div class="row">
+        <div class="col-md-6">
+            <h2>if.....else</h2>
+            @{
+                var score = 60;
+                if (score < 50)
+                {
+                    <div class="text-danger">คะแนน @score : สอบไม่ผ่าน</div>
+                }
+                else
+                {
+                    <div class="text-success">คะแนน @score : สอบผ่าน</div>
+                }
+            }
+
+
+
+            <h2>Switch.....case</h2>
+            @{
+                var today = DateTime.Now.AddDays(2).DayOfWeek;
+                switch (today)
+                {
+                    case DayOfWeek.Saturday:
+                    case DayOfWeek.Sunday:
+                        <div> @today : วันนี้เป็นวันหยุด</div> break;
+
+
+                    default:
+                        <div> @today : วันนี้เป็นวันทำงาน</div> break;
+                }
+            }
+        </div>
+    </div>
+</div>

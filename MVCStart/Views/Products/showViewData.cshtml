@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Show ViewData";
+}
+
+<div class="container">
+    <h3>รายการหนังสือ</h3>
+    <ul>
+        @foreach(var item in (List<string>)ViewData["ListBook"])
+        {
+            <li>@item</li>
+        }
+    </ul>
+</div>
+

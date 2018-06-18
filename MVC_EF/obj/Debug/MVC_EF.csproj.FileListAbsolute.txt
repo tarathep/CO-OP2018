@@ -1,0 +1,388 @@
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\ApplicationInsights.config
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\MVC_EF.dll.config
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\MVC_EF.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\MVC_EF.pdb
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\csc.exe
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\csc.exe.config
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\csc.rsp
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\csi.exe
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\csi.exe.config
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\csi.rsp
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.AppContext.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Console.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.IO.Compression.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Claims.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Threading.Thread.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.ValueTuple.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\vbc.exe
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\vbc.exe.config
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\vbc.rsp
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\VBCSCompiler.exe
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Antlr3.Runtime.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\EntityFramework.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\EntityFramework.SqlServer.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Microsoft.AI.Web.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Newtonsoft.Json.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Web.Helpers.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Web.Mvc.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Web.Optimization.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Web.Razor.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Web.WebPages.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Razor.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\WebGrease.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\EntityFramework.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\EntityFramework.SqlServer.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Web.Helpers.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Web.Mvc.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Web.Optimization.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Web.Razor.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Web.WebPages.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Razor.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Newtonsoft.Json.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Antlr3.Runtime.pdb
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Microsoft.AI.Web.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.csprojAssemblyReference.cache
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.csproj.CoreCompileInputs.cache
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.csproj.CopyComplete
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.dll
+C:\Users\user02\Documents\Visual Studio 2017\Projects\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.pdb
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\ApplicationInsights.config
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\MVC_EF.dll.config
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\MVC_EF.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\MVC_EF.pdb
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.IO.Pipes.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Claims.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Threading.Thread.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\EntityFramework.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Microsoft.AI.Web.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\WebGrease.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\EntityFramework.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Microsoft.AI.Web.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.csproj.CopyComplete
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.dll
+C:\Users\admin\Desktop\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.pdb
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\ApplicationInsights.config
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\MVC_EF.dll.config
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\MVC_EF.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\MVC_EF.pdb
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\csc.exe
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\csc.exe.config
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\csc.rsp
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\csi.exe
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\csi.exe.config
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\csi.rsp
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.AppContext.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Console.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.IO.Compression.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Claims.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Threading.Thread.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.ValueTuple.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\vbc.exe
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\vbc.exe.config
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\vbc.rsp
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\VBCSCompiler.exe
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Antlr3.Runtime.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\EntityFramework.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\EntityFramework.SqlServer.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Microsoft.AI.Web.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Newtonsoft.Json.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Web.Helpers.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Web.Mvc.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Web.Optimization.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Web.Razor.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Web.WebPages.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Razor.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\WebGrease.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\EntityFramework.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\EntityFramework.SqlServer.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Web.Helpers.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Web.Mvc.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Web.Optimization.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Web.Razor.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Web.WebPages.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Razor.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Newtonsoft.Json.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Antlr3.Runtime.pdb
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Microsoft.AI.Web.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.csprojAssemblyReference.cache
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.csproj.CoreCompileInputs.cache
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.csproj.CopyComplete
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.dll
+C:\Users\bokee\Desktop\pro\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.pdb
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\ApplicationInsights.config
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\MVC_EF.dll.config
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\MVC_EF.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\MVC_EF.pdb
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\csc.exe
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\csc.exe.config
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\csc.rsp
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\csi.exe
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\csi.exe.config
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\csi.rsp
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.AppContext.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Console.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.IO.Compression.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Claims.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Threading.Thread.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.ValueTuple.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\vbc.exe
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\vbc.exe.config
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\vbc.rsp
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\VBCSCompiler.exe
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Antlr3.Runtime.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\EntityFramework.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\EntityFramework.SqlServer.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Microsoft.AI.Web.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Newtonsoft.Json.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Web.Helpers.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Web.Mvc.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Web.Optimization.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Web.Razor.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Web.WebPages.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Razor.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\WebGrease.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\EntityFramework.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\EntityFramework.SqlServer.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Web.Helpers.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Web.Mvc.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Web.Optimization.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Web.Razor.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Web.WebPages.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Web.WebPages.Razor.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Newtonsoft.Json.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Antlr3.Runtime.pdb
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Microsoft.AI.Web.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.csprojAssemblyReference.cache
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.csproj.CoreCompileInputs.cache
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.csproj.CopyComplete
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.dll
+C:\Users\bokee\Desktop\asp.net mvc\CO-OP2018\MVC_EF\obj\Debug\MVC_EF.pdb
